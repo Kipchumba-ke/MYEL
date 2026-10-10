@@ -1,0 +1,4 @@
+import { Link } from 'react-router-dom'
+export default function About() {
+  return <main className="about-page"><div className="about-hero"><p className="eyebrow">OUR PHILOSOPHY</p><h1>Beauty with a conscience.<br/>Made to be lived in.</h1></div><div className="about-split"><img src="https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=1200&q=85" alt="Carefully crafted jewelry"/><div><p className="eyebrow">DESIGNED IN MONTREAL</p><h2>Small details.<br/>Lasting meaning.</h2><p>MYEL brings together modern forms, delicate details, and a commitment to more thoughtful jewelry. We believe the pieces you wear every day should be beautiful, durable, and made with care.</p><p>Our approach puts responsible sourcing and honest craftsmanship at the heart of each collection.</p><Link className="text-action" to="/shop">DISCOVER THE COLLECTION ↗</Link></div></div></main>
+}
