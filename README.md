@@ -226,7 +226,7 @@ Before deployment:
 
 ## Portfolio Links
 
-- **Live Demo:
+- **Live Demo: https://myelcollections.netlify.app/
 - **GitHub Repository: https://github.com/Kipchumba-ke/MYEL
 
 ## Key Learning Outcomes
@@ -243,4 +243,4 @@ This project provided practical experience with:
 
 ## License
 
-Add a license if you intend to distribute or reuse the source code publicly. If this project uses third-party imagery or design assets, verify that their licenses permit the intended use.
+MIT
